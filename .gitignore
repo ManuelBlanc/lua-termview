@@ -1,0 +1,20 @@
+# Documentation
+doc/
+headerDoc2HTML.config
+
+# Tests
+/src/tests/tester
+
+# Object files
+*.o
+
+# Library files
+*.lib
+*.a
+*.dll
+*.so
+*.dylib
+
+# Misc
+*.dSYM
+*.d
